@@ -1,0 +1,1 @@
+python ngrams.py -r hadoop < 1gram-a > output
